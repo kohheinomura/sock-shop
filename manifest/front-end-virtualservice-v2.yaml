@@ -4,7 +4,7 @@ metadata:
   name: front-end-virtualservice
 spec:
   hosts:
-    - front-end-sock-shop.itzroks-120000nskq-d0gq0n-6ccd7f378ae819553d37d5f2ee142bd6-0000.us-south.containers.appdomain.cloud
+    - front-end-sockshop.itzroks-120000nskq-d0gq0n-6ccd7f378ae819553d37d5f2ee142bd6-0000.us-south.containers.appdomain.cloud
   gateways:
     - sockshop-wildcard-gateway
   http:
